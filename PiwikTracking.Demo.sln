@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiwikTracking.Demo", "PiwikTracking.Demo\PiwikTracking.Demo.csproj", "{167919E3-476A-4399-B42E-548603744F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiwikTracking.Demo.Web", "PiwikTracking.Demo.Web\PiwikTracking.Demo.Web.csproj", "{9552B184-D7C7-43B1-ADBA-1B3F0D701785}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piwik.Tracking", "Piwik.Tracking\Piwik.Tracking.csproj", "{B8FFCF32-1B91-49D9-A961-C0DAEF4E6B04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{167919E3-476A-4399-B42E-548603744F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167919E3-476A-4399-B42E-548603744F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167919E3-476A-4399-B42E-548603744F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167919E3-476A-4399-B42E-548603744F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9552B184-D7C7-43B1-ADBA-1B3F0D701785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9552B184-D7C7-43B1-ADBA-1B3F0D701785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9552B184-D7C7-43B1-ADBA-1B3F0D701785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9552B184-D7C7-43B1-ADBA-1B3F0D701785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FFCF32-1B91-49D9-A961-C0DAEF4E6B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FFCF32-1B91-49D9-A961-C0DAEF4E6B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FFCF32-1B91-49D9-A961-C0DAEF4E6B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FFCF32-1B91-49D9-A961-C0DAEF4E6B04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
