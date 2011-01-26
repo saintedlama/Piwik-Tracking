@@ -8,6 +8,8 @@
 # Standard VS.NET and ReSharper Foo
 obj
 bin
+Obj
+Bin
 *.csproj.user
 *ReSharper*
 *resharper*
@@ -33,7 +35,9 @@ httpd.parse.errors
 build
 build/*
 
- 
+# XAPs
+*.xap
+
 # Exclude ALL DLLs? (
 # *.dll
  
