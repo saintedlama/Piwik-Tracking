@@ -13,7 +13,6 @@ using Piwik.Tracking.Util;
 
 namespace Piwik.Tracking
 {
-    // TODO: Check back IP passed!
     public class PiwikTracker
     {
         // TODO: Custom Data
